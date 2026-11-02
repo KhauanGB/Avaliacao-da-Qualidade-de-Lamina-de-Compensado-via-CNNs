@@ -1,0 +1,44 @@
+{
+    "Experimento": "Embeddings EfficientNet B7 Com TL (DA) + SVM",
+    "Acuracia": 0.6829787234042554,
+    "Precisao_Weighted": 0.6906112573961718,
+    "Recall_Weighted": 0.6829787234042554,
+    "F1_Score_Weighted": 0.6792095538920299,
+    "Matriz_Confusao": [
+        [
+            31,
+            12,
+            1,
+            0,
+            0
+        ],
+        [
+            6,
+            45,
+            8,
+            1,
+            0
+        ],
+        [
+            0,
+            9,
+            58,
+            27,
+            5
+        ],
+        [
+            0,
+            0,
+            18,
+            132,
+            13
+        ],
+        [
+            0,
+            2,
+            10,
+            37,
+            55
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "Experimento": "Embeddings EfficientNet B5 Com TL + SVM",
+    "Acuracia": 0.7106382978723405,
+    "Precisao_Weighted": 0.7162836087729318,
+    "Recall_Weighted": 0.7106382978723405,
+    "F1_Score_Weighted": 0.7078791396556202,
+    "Matriz_Confusao": [
+        [
+            32,
+            10,
+            1,
+            0,
+            1
+        ],
+        [
+            4,
+            49,
+            7,
+            0,
+            0
+        ],
+        [
+            0,
+            7,
+            61,
+            27,
+            4
+        ],
+        [
+            0,
+            1,
+            14,
+            132,
+            16
+        ],
+        [
+            0,
+            1,
+            8,
+            35,
+            60
+        ]
+    ]
+}
